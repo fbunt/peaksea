@@ -1,8 +1,8 @@
 " Vim color file --- psc (peak sea color) "Lite version"
 " Maintainer:	Pan, Shi Zhu <Go to the following URL for my email>
 " URL:		http://vim.sourceforge.net/scripts/script.php?script_id=760
-" Last Change:	5 Feb 2010
-" Version:	3.4
+" Last Change:	28 Oct 2020
+" Version:	3.5
 "
 "	Comments and e-mails are welcomed, thanks.
 "

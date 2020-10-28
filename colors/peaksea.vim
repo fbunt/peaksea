@@ -300,6 +300,7 @@ elseif &background=='dark'
   hi VertSplit		guifg=#000000	guibg=#c0c0c0	gui=NONE
   hi Underlined		guifg=#80a0ff	guibg=NONE	gui=underline 
   hi Ignore		guifg=#000000	guibg=NONE
+  hi ColorColumn        guifg=NONE      guibg=Red   gui=NONE
   " NOTE THIS IS IN THE COOL SECTION
   if v:version >= 700
     if has('spell')
@@ -536,6 +537,7 @@ elseif &background=='dark'
     hi VertSplit	ctermfg=16	ctermbg=250	cterm=NONE
     hi Underlined	ctermfg=111	ctermbg=NONE	cterm=underline 
     hi Ignore		ctermfg=16	ctermbg=NONE
+    hi ColorColumn      ctermfg=NONE    ctermbg=Red     cterm=NONE
     " NOTE THIS IS IN THE COOL SECTION
     if v:version >= 700
       if has('spell')

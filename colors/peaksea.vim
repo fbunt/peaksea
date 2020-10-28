@@ -270,7 +270,7 @@ elseif &background=='dark'
   hi Special		guifg=#e0c060	guibg=NONE	gui=NONE
   hi Error		guifg=#f08060	guibg=NONE	gui=NONE
   hi Todo		guifg=#800000	guibg=#d0d090	gui=NONE
-  hi Search		guifg=White	guibg=DarkRed	gui=NONE
+  hi Search		guifg=White	guibg=#d33538	gui=NONE
   hi Visual		guifg=#000000	guibg=#a6caf0	gui=NONE
   hi Cursor		guifg=#000000	guibg=#00f000	gui=NONE
   " NOTE THIS IS IN THE COOL SECTION
@@ -295,7 +295,7 @@ elseif &background=='dark'
   hi DiffDelete		guifg=#6080f0	guibg=#202020	gui=NONE
   hi DiffText		guifg=#000000	guibg=#c0e080	gui=NONE
   hi SignColumn		guifg=#e0e0e0	guibg=#202020	gui=NONE
-  hi IncSearch		guifg=White	guibg=DarkRed	gui=NONE
+  hi IncSearch		guifg=White	guibg=#d33538	gui=NONE
   hi StatusLineNC	guifg=#000000	guibg=#c0c0c0	gui=NONE
   hi VertSplit		guifg=#000000	guibg=#c0c0c0	gui=NONE
   hi Underlined		guifg=#80a0ff	guibg=NONE	gui=underline 

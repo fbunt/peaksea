@@ -537,7 +537,7 @@ elseif &background=='dark'
     hi VertSplit	ctermfg=16	ctermbg=250	cterm=NONE
     hi Underlined	ctermfg=111	ctermbg=NONE	cterm=underline 
     hi Ignore		ctermfg=16	ctermbg=NONE
-    hi ColorColumn      ctermfg=NONE    ctermbg=Red     cterm=NONE
+    hi ColorColumn      ctermfg=NONE    ctermbg=9     cterm=NONE
     " NOTE THIS IS IN THE COOL SECTION
     if v:version >= 700
       if has('spell')
